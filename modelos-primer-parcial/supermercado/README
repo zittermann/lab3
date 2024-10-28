@@ -1,0 +1,7 @@
+Inicializar semaforo:
+- ./avion 1
+
+Demás procesos:
+- ./avion 2
+- ./avion 3
+- ./panel
